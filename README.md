@@ -12,4 +12,3 @@ algorepo
 How to use:
 	git clone https://github.com/hyaocuk/algorepo.git
 
-clone to your machine, use the template we provide or just look up what you want.
