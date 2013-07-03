@@ -10,5 +10,6 @@ repository for common algorithms, mainly written in high-level language C.
 First things first, it's a practice of algorithms, pure algorithms without real examples. But in the near future, I plan to add some famous and classic examples that some of them are from <I>Itroduction to Algorithms</I> or from other sources not listed here.
 
 How to use:
-		git clone https://github.com/hyaocuk/algorepo.git
+
+	git clone https://github.com/hyaocuk/algorepo.git
 
