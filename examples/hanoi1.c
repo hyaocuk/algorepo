@@ -5,6 +5,7 @@
  * which is the number of discs, and the final configuration that denotes which pegs moved to.
  *
  * Date: 2013-7-3 17:50:15
+ * By: Terence Ng
  * */
 
 #include<stdio.h>
