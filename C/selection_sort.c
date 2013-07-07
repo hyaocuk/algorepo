@@ -17,7 +17,6 @@ void selection_sort(int input[], int n) {
 	int i, j;
 	for(i=0; i<n-1; i++) {
 		min = input[i];
-		printf("\n\n(%d)\n", min);
 		for(j=i+1; j<n; j++) {
 			if(input[j]<min) {
 				min = input[j];
