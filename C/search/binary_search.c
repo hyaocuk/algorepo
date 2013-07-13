@@ -6,6 +6,9 @@
  * or larger partagain because we have an ordered sequence already and with total time: O(log n), when not found, 
  * return -1.
  *
+ * Date: 2013-7-13 21-24-30
+ * By: Terence Ng
+ *
  * */
 
 #include<stdio.h>
